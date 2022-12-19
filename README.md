@@ -1,4 +1,5 @@
 # Slide Show Winter
+<img src="https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/frost/hawthorn-berries-in-a-frost.-photo-galina-n.jpg" alt="" />
  Winter Slide Show
  
 This project was designed for me to learn how to link HTML files and work with videos and CSS.
